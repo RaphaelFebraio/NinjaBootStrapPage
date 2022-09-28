@@ -1,0 +1,12 @@
+body {
+        background-image: url("../img/ninjaBackGround.jpg");
+        width: auto; 
+        height: auto;
+        background-repeat: no-repeat;
+}
+
+.img{
+        width: 280px;
+        height: 100px;
+}
+
